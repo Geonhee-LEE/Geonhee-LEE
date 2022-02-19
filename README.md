@@ -6,7 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4%ED%9D%AC-%EC%9D%B4-682828158/)](https://www.linkedin.com/in/%EA%B1%B4%ED%9D%AC-%EC%9D%B4-682828158/)
 [![Github Followers](https://img.shields.io/github/followers/Geonhee-LEE?color=06d6a0&label=Github%20Followers&style=flat-square)](https://github.com/Geonhee-LEE?tab=followers)
 
-![Geonhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geonhee-LEE&show_icons=true&theme=dracula)
+![Geonhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geonhee-LEE&layout=compact&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geonhee-LEE&layout=compact&langs_count=8&theme=dracula)](https://github.com/Geonhee-LEE)
 
 
