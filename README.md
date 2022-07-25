@@ -4,7 +4,6 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCAJrBKDPKFupEJgHLeAYCzQ)](https://www.youtube.com/channel/UCAJrBKDPKFupEJgHLeAYCzQ)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunhee6392@gmail.com)](mailto:gunhee6392@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4%ED%9D%AC-%EC%9D%B4-682828158/)](https://www.linkedin.com/in/%EA%B1%B4%ED%9D%AC-%EC%9D%B4-682828158/)
-[![Github Followers](https://img.shields.io/github/followers/Geonhee-LEE?color=06d6a0&label=Github%20Followers&style=flat-square)](https://github.com/Geonhee-LEE?tab=followers)
 
 ![Geonhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geonhee-LEE&layout=compact&show_icons=true&theme=dracula)
 
