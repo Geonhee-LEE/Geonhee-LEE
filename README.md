@@ -2,7 +2,6 @@
 
 Try not to become a man of success but rather try to become a man of value
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGeonhee-LEE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCAJrBKDPKFupEJgHLeAYCzQ)](https://www.youtube.com/channel/UCAJrBKDPKFupEJgHLeAYCzQ)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gunhee6392@gmail.com)](mailto:gunhee6392@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4%ED%9D%AC-%EC%9D%B4-682828158/)](https://www.linkedin.com/in/%EA%B1%B4%ED%9D%AC-%EC%9D%B4-682828158/)
